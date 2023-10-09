@@ -14,7 +14,7 @@ body {
   height: 100%;
   border-right: solid;
   border-color: #001616;
-  
+
   /* top: 0px;
   left: 0px; */
 }
@@ -25,7 +25,7 @@ body {
 }
 
 section li {
-  margin: 15px 0px 0px 20px;
+  margin: 15px 1px 1px 20px;
 }
 
 #navbar li {
@@ -61,10 +61,11 @@ header {
 
 #main-docu header {
   text-align: left;
+
   /* margin: 0px; */
 }
 
-  section article {
+section article {
   color: #4d4e53;
   margin: 15px;
   font-size: 0.95em;

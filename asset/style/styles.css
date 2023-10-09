@@ -14,6 +14,7 @@ body {
   height: 100%;
   border-right: solid;
   border-color: #001616;
+  
   /* top: 0px;
   left: 0px; */
 }
@@ -21,6 +22,10 @@ body {
 #navbar ul {
   height: 80%;
   padding: 0;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
 }
 
 #navbar li {
@@ -47,16 +52,13 @@ body {
 }
 
 header {
-    color: #000;
-    margin: 10px;
-    text-align: center;
-    font-size: 1.6em;
-    font-weight: thin;
+  color: #000;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.6em;
+  font-weight: thin;
 }
 
-section li {
-    margin: 15px 0px 0px 20px;
-}
 #main-docu header {
   text-align: left;
   /* margin: 0px; */

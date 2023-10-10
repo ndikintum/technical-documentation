@@ -14,9 +14,6 @@ body {
   height: 100%;
   border-right: solid;
   border-color: #001616;
-
-  /* top: 0px;
-  left: 0px; */
 }
 
 #navbar ul {
@@ -61,8 +58,6 @@ header {
 
 #main-docu header {
   text-align: left;
-
-  /* margin: 0px; */
 }
 
 section article {
